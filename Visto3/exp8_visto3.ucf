@@ -1,0 +1,16 @@
+NET "clock" LOC = "B8";
+NET "LD" LOC = "P11";
+NET "B" LOC = "L3";
+NET "A" LOC = "K3";
+NET "displays<0>" LOC = "F12";
+NET "displays<1>" LOC = "J12";
+NET "displays<2>" LOC = "M13";
+NET "displays<3>" LOC = "K14";
+NET "num7seg<0>" LOC = "N13";
+NET "num7seg<1>" LOC = "M12";
+NET "num7seg<2>" LOC = "L13";
+NET "num7seg<3>" LOC = "P12";
+NET "num7seg<4>" LOC = "N11";
+NET "num7seg<5>" LOC = "N14";
+NET "num7seg<6>" LOC = "H12";
+NET "num7seg<7>" LOC = "L14";
